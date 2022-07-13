@@ -12,3 +12,4 @@ for i in range(len(names)):
 for i in range(len(indx)):
   name = random.randint(0,(len(indx)-1))
 print(names[name])
+
